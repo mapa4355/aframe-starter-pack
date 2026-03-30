@@ -10,15 +10,14 @@ Below you’ll find instructions to copy (fork) this repository and set it up fo
 
 ## STEP 01 - Setup Your Code and Live Site (Github and Github Pages)
 
-1. **Create a GitHub account** if you do not already have one.
-2. Go to the [Example Code Repo](https://github.com/sheiva/aframe-example-code): https://github.com/sheiva/aframe-example-code
+1. **Sign in or create a new GitHub account** if you do not already have one.
 
 ### Fork the Example Repository
 
-1. On the example repo page, click **Fork** in the top right corner.
+1. Go to the [Example Code Repo](https://github.com/sheiva/aframe-starter-pack): https://github.com/sheiva/aframe-starter-pack and click **Fork** in the top right corner.
 2. **Create the fork under your own GitHub account.** This makes your own copy of the example repo that you can edit freely.
 
-### Publish and Render Your A-Frame Site
+### Publish Your Live A-Frame Site
 
 1. Go to your forked repository on GitHub in your browser.
 2. Click **Settings → Pages**.
@@ -27,7 +26,7 @@ Below you’ll find instructions to copy (fork) this repository and set it up fo
    - Folder: `/root`
 4. Click **Save**.
 5. Wait a couple of minutes for GitHub Pages to publish your site.
-6. When you are asked to submit your work, submit:
+6. When you are asked to submit your work in class, submit:
    - Your **GitHub Pages live link**
    - Your **repository link**
 
@@ -41,11 +40,11 @@ Below you’ll find instructions to copy (fork) this repository and set it up fo
 2. **Download and install [Visual Studio Code](https://code.visualstudio.com/download) (VS Code).**
    
 
-### Clone Your Fork to Your Computer
+### Clone Your Fork to Your Computer (in other words, make a local connected copy of your github code)
 
 1. Open **GitHub Desktop**.
 2. Click **File → Clone Repository**.
-3. Select your forked version of the repo from your GitHub account.
+3. Select the repo you just foked in your GitHub account.
 4. Choose where you want the project saved on your computer.
 5. Click **Clone**.
 
@@ -75,4 +74,4 @@ When you want to save your work to GitHub:
 4. Click **Commit to main**.
 5. Click **Push origin**.
 
-Keep doing this as you continue editing.
+Keep doing this as you continue editing so your work isn't just saved to your computer but is synced to your Github account (and your Github Pages site).
